@@ -1,0 +1,414 @@
+.header{
+    background: #434343;
+    height: 45px;
+    padding: 1px !important;
+}
+
+.header  .usd .caret{
+    color: white !important;
+}
+.usd{
+    padding-top: 12px;
+}
+.usd ul{
+    
+    list-style: none;    
+}
+
+.dropdown-toggle{
+    color: #fff;
+}
+
+.four .dropdown-toggle{
+    
+    color:black;
+}
+
+.four .dropdown-toggle .caret{
+    color: black;
+}
+.dropdown{
+    display: inline-block;
+    border-right: 1px solid white;
+    padding-right: 6px;
+    padding-left: 9px;
+}
+
+.dropdown:last-child{
+    border-right: none;
+}
+.fa-user{
+    color:white;
+}
+span{
+    color:white;
+}
+.fal{
+    color:white;
+}
+.fa-lock{
+    color:white;
+}
+
+.login button span{
+    
+   display:block;
+    width: 20px;
+    height: 1px;
+    background: white;
+    margin:2px auto;
+}
+.login button{
+    background:transparent;
+    border: none;
+}
+
+.header .login{
+    
+    ;text-align: right
+}
+
+.login li{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.login{
+    padding-top: 12px;
+    left: -29px;
+}
+
+.salam dropdown button{
+    border-radius: 0px;
+    border: 1px solid #2a2a2a;
+    
+}
+
+.dropdown .caret{
+    color: black;
+}
+
+.four .dropdown{
+    display: inline-block;      
+}
+
+.navbar{
+    padding: 0px !important;
+    margin-top: -12px;
+    right: -16px;
+}
+
+.navbar .container-fluid{
+    padding: 0px !important;
+    margin-top: 20px;
+}
+
+.search{
+    display: inline-block;
+}
+
+.search input{
+    padding: 7px;
+    border: none;
+}
+
+.four .dropdown button{
+    border: 1px solid black;
+    border-radius: 0px;
+}
+
+.search button{
+    background: transparent;
+    border: none;
+}
+
+.search{
+    border: 1px solid #2a2a2a;
+}
+
+.four{
+    margin-top: 20px;
+}
+
+
+ 
+.navbar-brand{
+    
+    color: #d58e32;
+}
+.four{
+    background: #ffffff;
+      
+}
+
+.navbar-nav a{
+    color: black;
+    font-size: 11px;
+}
+
+.furniture{
+    background: #7f7f7f;
+    height: 65px;
+    padding: 9px;
+}
+
+.furniture h4{
+    color: #c7c7c7;
+    padding-left: 135px;
+    font-size: 20pt;
+}
+
+
+.furniture ul{
+    display: flex;
+    list-style: none;
+    float: right;
+    margin-top: 15px;
+    padding-right: 135px;
+}
+
+.furniture ul li a{
+    color: #dedede;
+    font-size: 10pt;
+}
+.furniture li{
+    padding-left: 8px;
+}
+
+.furniture .home{
+    background: #7f7f7f;
+    text-align: center;
+}
+.small{
+    
+    background: #7f7f7f;
+    height: 165px;
+    left: -15px;
+    margin-top: 39px;
+    
+}
+.small img{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.sunbaby h5{
+    color:black;
+    font-size: 15pt;
+    
+}
+
+.sunbaby span{
+    color: black;
+    padding: 3px;
+}
+
+.sunbaby .unique{
+    border-right: 1px solid black;
+}
+
+.sunbaby .dollar #one{
+    text-decoration: line-through;
+}
+
+.sunbaby .dollar #two{
+    background: black;
+    color: white;
+    
+}
+
+.sunbaby .dollar{
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+}
+
+.set button{
+    background: transparent;
+    border:1px solid black; 
+    
+}
+
+.set .add{
+    background: #d58e32;
+    margin-top: 30px; 
+}
+
+.set{
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+}
+
+ .face{
+    background: blue;
+    color: white;
+     border-radius: 0px;
+}
+
+#google-tweet{
+    
+    background: transparent;
+    border-radius: 0px;
+    border: 1px solid black;
+}
+.face-google{
+    margin-top:30px;
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+    
+}
+
+.last{
+    
+    background: #7f7f7f;
+    height: 165px;
+    right: -15px;
+    
+}
+.image{
+    left: -29px;
+    padding-left: 0px;
+}
+.middle-div{
+    border: 1px solid black;
+}
+
+.five{
+    border: 1px solid black;
+    margin-top: 25px;
+}
+
+.five ul{
+    list-style: none;
+    display: flex;
+    
+}
+
+.five ul li{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.five .description ul li:last-child{
+    border-right: 1px solid black;
+}
+
+.description{
+    left: -71px;
+    padding-left: 0px;
+        
+}
+
+.description ul li{
+    
+    padding: 8px;
+}
+
+.five span{
+    color: black ;
+}
+
+.continue button{
+    
+    background: black;
+    border-radius: 0px;
+    color: white;
+    padding: 5px;
+    
+}
+.email-name{
+    margin-top: 20px;
+}
+
+
+.name{
+    margin-left: -16px;
+}
+
+.NEW img{
+    width: 100%;
+    height: 226px;
+}
+#myCarousel{
+    margin-top: 40px;
+    background: black;
+    
+}
+
+.carousel-inner button{
+    background: black;
+    color: white;
+}
+
+.carousel-inner .glyphicon-star{
+    color: black;   
+}
+
+.carousel-inner h5{
+    text-align: center;
+    color: #d58e32;
+}
+.carousel-inner p{
+    text-align: center;
+}
+.carousel-control span{
+    color: red;
+}
+
+#price{
+    
+    float: right;
+}
+.newsletter{
+    background: #f2f2f2;
+    height:70px;
+    text-align: center;
+}
+
+#letter{
+    color:#d58e32;
+    font-weight: bold;
+}
+.newsletter .email{
+    background: #d58e32;
+    border-left: 1px solid #d58e32;
+    border-right: 1px solid #d58e32;
+}
+.newsletter input{
+    
+    border:none;
+}
+
+.newsletter .letter{
+    padding-top: 22px;
+}
+.footer{
+    background: #363636;
+}
+
+.footer h4{
+    color: white;
+    padding-left: 37px;
+}
+
+.footer ul{
+    list-style: none;  
+}
+.footer ul li a {
+    color: white;
+    font-size: 12px;
+}
+
+.copy-right{
+    background: #2a2a2a;
+    text-align: center;
+    height: 55px;
+    padding-top: 19px;
+}
+
+#copy{
+    border-right: 1px solid white;
+    padding-right: 7px;
+}
+#right{
+    padding-left: 3px;
+}
